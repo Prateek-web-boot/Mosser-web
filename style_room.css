@@ -1,0 +1,99 @@
+body
+{
+    font-family: "Raleway",sans-serif;
+}
+
+
+
+.navbar-nav a:hover
+{
+	border-bottom: 2px solid grey;
+}
+
+
+#btn1
+{
+  background-color: rgb(75, 85, 30);
+  color: white;
+}
+
+.card
+{
+	border:1px solid white;
+	
+}
+
+.card-text
+{
+	display: inline-flex;
+	font-weight: 300;
+	margin-top: 10px;
+	margin-bottom: -5px;
+}
+
+#link
+{
+	color: grey; 
+	font-size: 15px;
+	border-bottom: 1px solid grey;
+}
+
+#rate
+{
+	font-size: 30px;
+	margin-top: -12px;
+	padding: 7px;
+	font-weight: 300;
+}
+
+
+img
+{
+	
+	height: 330px;
+}
+
+.fa
+{
+	font-size: 28px;
+	letter-spacing: 10px;
+	padding:1px; 
+	color: grey;
+}
+
+
+#btn_small
+{
+	font-size: 14px;
+}
+#footer
+{
+	background-color: #455d58;
+	color: white;
+	padding: 40px;
+	
+	font-weight: 100;
+}
+
+#footer a
+{
+	color: white;
+}
+
+#copyright
+{
+	padding-top: 70px;
+}
+
+
+
+
+.animate-1, .animate-2, .animate-3, .animate-4,.animate-5,.animate-6
+{
+	opacity: 0;
+
+}
+.animate-1.animated, .animate-2.animated,.animate-3.animated,.animate-4.animated,.animate-5.animated,.animate-5.animated
+{
+	opacity: 1;
+}

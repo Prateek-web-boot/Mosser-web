@@ -1,0 +1,97 @@
+body
+{
+    font-family: "Raleway",sans-serif;
+}
+
+
+
+.navbar-nav a:hover
+{
+	border-bottom: 2px solid grey;
+}
+
+
+#btn1
+{
+  background-color: rgb(75, 85, 30);
+  color: white;
+}
+
+#one
+{
+	margin-bottom: 200px;
+	margin-top: 200px;
+}
+
+#jumbo
+{
+	background-image: url('https://images.wallpaperscraft.com/image/wedding_cell_love_sunset_swimming_pool_bouquets_100094_1920x1080.jpg'); 
+	 background-size: cover; 
+	 background-position: 50% 50%;
+	 position: relative;
+	 filter:brightness(60%);
+     opacity: 0.8;
+	 padding-top: 330px;
+	 padding-bottom: 330px;
+
+}
+
+#text
+{
+	position: absolute;
+	top: 160%;
+	left: 12%;
+}
+
+#img3
+{
+	background-size: cover;
+	
+	height: 450px;
+	width: 100%;
+}
+
+#para
+{
+	font-size: 20px;
+	 font-style: italic;
+     color: rgb(9, 43, 22);
+     font-size: 17px; 
+     line-height: 2;
+}
+
+#btn_small
+{
+	font-size: 14px;
+}
+
+#footer
+{
+	background-color: #455d58;
+	color: white;
+	padding: 40px;
+	
+	font-weight: 100;
+}
+
+#footer a
+{
+	color: white;
+}
+
+#copyright
+{
+	padding-top: 70px;
+}
+
+
+
+.animate-1, .animate-2, .animate-3, .animate-4
+{
+	opacity: 0;
+
+}
+.animate-1.animated, .animate-2.animated,.animate-3.animated,.animate-4.animated
+{
+	opacity: 1;
+}

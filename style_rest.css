@@ -1,0 +1,111 @@
+body
+{
+    font-family: "Raleway",sans-serif;
+}
+
+
+
+.navbar-nav a:hover
+{
+	border-bottom: 2px solid grey;
+}
+
+
+#weight
+{
+	font-weight: 300;
+}
+
+#bar
+{
+    background-color: rgb(40, 74, 88);
+     margin-top: 150px;
+      padding-top: 100px;
+      padding-bottom: 100px;
+      margin-bottom: 200px;
+}
+
+.btn2
+{
+	border:1px solid white;
+	color: white;
+	font-size: 16px;
+}
+.btn2:hover
+{
+    background-color: white;
+    color: rgb(20, 80, 77);
+    border: 1px solid white;
+}
+
+#toggle
+{
+	margin-left: 350px;
+	
+	
+}
+
+.btn3
+{
+	border: 1px solid white;
+}
+
+#menu_img
+{
+	width: 650px;
+	height: 200px;
+	margin-left: 230px;
+	margin-bottom: 40px;
+}
+
+h6
+{
+	padding-top: 24px;
+}
+.col-md-6 p
+{
+	padding-top: 15px;
+	font-weight: 300;
+}
+
+#btn1
+{
+  background-color: rgb(20, 80, 77);
+  color: white;
+}
+
+#btn_small
+{
+	font-size: 14px;
+}
+#footer
+{
+	background-color: #455d58;
+	color: white;
+	padding: 40px;
+	
+	font-weight: 100;
+}
+
+#footer a
+{
+	color: white;
+}
+
+#copyright
+{
+	padding-top: 70px;
+}
+
+
+
+
+.animate-1, .animate-2, .animate-3, .animate-4
+{
+	opacity: 0;
+
+}
+.animate-1.animated, .animate-2.animated,.animate-3.animated,.animate-4.animated
+{
+	opacity: 1;
+}

@@ -1,0 +1,107 @@
+body
+{
+	background-color: #faf7f2;
+	font-family: "Raleway",sans-serif;
+}
+
+.navbar-nav a:hover
+{
+	border-bottom: 2px solid grey;
+}
+
+h1
+{
+	padding-top: 100px;
+	color:rgb(20, 80, 77) ;
+	font-size: 50px;
+}
+p
+{
+	text-align: justify;
+}
+
+.form-group input
+{
+	width:36%;
+	padding:25px;
+	border: 1px solid black;
+	border-radius: 0;
+	margin-bottom: 18px; 
+}
+
+.form-group textarea
+{
+	width:36%;
+	padding:30px;
+	border: 0.5px solid black;
+	border-radius: 0;
+}
+
+input placeholder
+{
+	font-size: 10px;
+}
+#container-1
+{
+	margin-left: 350px;
+}
+
+.btn
+{
+	color: white;
+	background-color: grey;
+	font-size: 15px;
+}
+.btn:hover
+{
+	color: grey;
+    border: 1px solid grey;
+    background-color: white;
+}
+
+#sec1
+{
+	padding-bottom: 150px;
+}
+
+.form-control
+{
+	font-size: 13px;
+}
+
+label
+{
+	font-weight: bold;
+	color: rgb(20, 80, 77);
+}
+#footer
+{
+	background-color: #455d58;
+	color: white;
+	padding: 40px;
+	
+	font-weight: 100;
+}
+
+#footer a
+{
+	color: white;
+}
+
+#copyright
+{
+	padding-top: 70px;
+}
+
+
+
+
+.animate-1, .animate-2, .animate-3, .animate-4,.animate-5
+{
+	opacity: 0;
+
+}
+.animate-1.animated, .animate-2.animated,.animate-3.animated,.animate-4.animated,.animate-5.animated
+{
+	opacity: 1;
+}

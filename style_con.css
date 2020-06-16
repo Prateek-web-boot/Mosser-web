@@ -1,0 +1,78 @@
+body
+{
+    font-family: "Raleway",sans-serif;
+}
+
+
+
+.navbar-nav a:hover
+{
+	border-bottom: 2px solid grey;
+}
+
+
+#btn1
+{
+  background-color: rgb(20, 80, 77);
+  color: white;
+}
+
+#btn-2
+{
+	font-size: 15px;
+	border-radius:3px;
+	letter-spacing: 1px;
+}
+
+img
+{
+	margin-top: 30px;
+}
+
+h5
+{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	color: rgb(20, 80, 77);
+}
+h6
+{
+	font-weight: 300;
+	color: rgb(20, 80, 77);
+}
+
+.margin
+{
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+#footer
+{
+	background-color: #455d58;
+	color: white;
+	padding: 40px;
+	
+	font-weight: 100;
+}
+
+#footer a
+{
+	color: white;
+}
+
+#copyright
+{
+	padding-top: 70px;
+}
+
+
+.animate-1, .animate-2
+{
+	opacity: 0;
+
+}
+.animate-1.animated, .animate-2.animated
+{
+	opacity: 1;
+}
